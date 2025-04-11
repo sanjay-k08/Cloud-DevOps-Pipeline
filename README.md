@@ -2,6 +2,8 @@
 
 This project demonstrates how to build and deploy a Continuous Integration (CI) pipeline using various tools available in Google Cloud Platform (GCP). It walks through the full lifecycle of a Python Flask application, from writing code and containerizing it, to pushing it through an automated build process using Cloud Build, and finally deploying the built image to a virtual machine instance using Compute Engine.
 
+![Blog-Diagram](https://github.com/user-attachments/assets/66ecfb50-fc62-406d-988f-e8c65a699c65)
+
 
 # Project Objectives
 
